@@ -1,3 +1,5 @@
+_This article was originally written by [http://about.me/philco](Philip Cortes) and his teammates at [http://meeteor.com/](Meeteor)._
+
 Behavioral Questions
 ====================
 
