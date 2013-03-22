@@ -1,4 +1,4 @@
-_This article was originally written by [http://about.me/philco](Philip Cortes) and his teammates at [http://meeteor.com/](Meeteor)._
+_This article was originally written by [Philip Cortes](http://about.me/philco) and his teammates at [Meeteor](http://meeteor.com/)._
 
 Behavioral Questions
 ====================
